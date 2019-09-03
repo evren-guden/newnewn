@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.fico.com/en/blogs/feed/atom?category=All">
+  <channel>
+    <title>FICO</title>
+    <link>https://www.fico.com/en/blogs/feed/atom?category=All</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+    <title>Analytic Heroes Come Forward!</title>
+    <link>https://www.fico.com/en/blogs/ai-awards</link>
+    <description>&lt;div class="blog-post blog-post--rss-item"&gt;
+    &lt;a href="https://www.fico.com/en/blogs/ai-awards"&gt;
+        &lt;img src="https://www.fico.com/sites/default/files/default_files/AdobeStock_193137362%402x.jpeg" alt="Analytic Heroes Come Forward!" width="1880" height="1254" style="width: 100%;" /&gt;&lt;/a&gt;
+
+        
+            &lt;div&gt;&lt;p&gt;FICO’s customers continue to set new standards with their innovative solutions to very challenging business problems. That’s why the FICO® Decisions Awards were created — to find the best of the best, the companies that are truly competing with analytics.&lt;/p&gt;
+
+&lt;p&gt;Our &lt;a href="https://www.fico.com/decisionsawards/"&gt;2019 FICO® Decisions Awards&lt;/a&gt; are now open. Nominations are due October 15, 2019, and winners will be announced December 2019.&lt;/p&gt;
+
+&lt;p&gt;FICO invites any of its more than 5,000 direct clients to enter the awards, as well as the tens of thousands of firms that use FICO solutions provided by its partners.&lt;/p&gt;
+
+&lt;p&gt;These awards are an opportunity to receive recognition for their stories of success and inspire others with what is possible. This year we have grown the awards with a new cloud category reflecting how pervasive cloud solutions have become among our clients across many industries.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Awards will be presented in eight categories:&lt;/li&gt;
+	&lt;li&gt;AI, Machine Learning and Optimization&lt;/li&gt;
+	&lt;li&gt;Cloud Deployment&lt;/li&gt;
+	&lt;li&gt;Customer Onboarding and Management&lt;/li&gt;
+	&lt;li&gt;Debt Management&lt;/li&gt;
+	&lt;li&gt;Decision Management Innovation&lt;/li&gt;
+	&lt;li&gt;Fraud and Security&lt;/li&gt;
+	&lt;li&gt;Financial Inclusion&lt;/li&gt;
+	&lt;li&gt;Regulatory Compliance&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;A panel of independent judges with deep industry expertise will evaluate nominations based upon measurable improvement in key metrics; demonstrated use of best practices; project scale, depth and breadth; and innovative uses of technology.&lt;/p&gt;
+
+&lt;p&gt;Winners will receive recognition at numerous FICO events during 2020 as well as receiving complimentary conference passes to FICO® World in 2021.&lt;/p&gt;
+
+&lt;p&gt;Nominations can come from any part of the world or any industry. For inspiration, check out these winners from last year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.fico.com/en/newsroom/basf-solves-supply-chain-optimization-problems-using-fico-optimization"&gt;BASF&lt;/a&gt; and &lt;a href="https://www.fico.com/en/newsroom/orsted-develops-innovative-digital-solution-wind-farms-using-fico-optimization"&gt;Orsted&lt;/a&gt; (AI, Machine Learning and Optimization, joint award); &lt;a href="https://www.fico.com/blogs/worldpay-transforms-merchant-onboarding-fico-platform"&gt;Worldpay&lt;/a&gt; (Customer Onboarding and Management); &lt;a href="https://www.fico.com/en/newsroom/shanghai-pudong-development-bank-credit-card-centre-automates-early-collections"&gt;Shanghai Pudong Development Bank CCC&lt;/a&gt; (Debt Management); &lt;a href="https://www.fico.com/en/newsroom/medscheme-transforms-claims-management-efficiency-using-fico-decision-technology"&gt;Medscheme/Helios&lt;/a&gt; and &lt;a href="https://www.fico.com/en/newsroom/santander-bank-polska-reduces-delinquency-20-percent-fico-automated-collections"&gt;Santander&lt;/a&gt; (Decision Management Innovation, joint award); &lt;a href="https://www.fico.com/en/newsroom/china-construction-bank-expands-its-business-millennial-credit-card-holders-using-big-data"&gt;China Construction Bank&lt;/a&gt; (Financial Inclusion); &lt;a href="https://www.fico.com/en/newsroom/entercard-doubles-fraud-detection-and-cuts-fraud-loss-rate-60-percent-using-fico-machine-learning"&gt;EnterCard&lt;/a&gt; and FIS (Fraud &amp; Security, joint award); and Canadian Tire Financial Services (Regulatory Compliance).&lt;/p&gt;
+&lt;/div&gt;
+      
+
+    &lt;div class="blog-post__author" style="display: flex; align-items: center;"&gt;
+        &lt;a href="https://www.fico.com/en/blogs/author/fico" class="blog-post__author__image"&gt;
+            &lt;img src="https://www.fico.com/sites/default/files/pictures/2019-06/Logo.jpg" alt="FICO" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;" /&gt;&lt;/a&gt;
+        &lt;span class="blog-post__author__name"&gt;
+            by &lt;a href="https://www.fico.com/en/blogs/author/fico"&gt;FICO&lt;/a&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Thu, 29 Aug 2019 16:21:45 +0000</pubDate>
+    <dc:creator>FICO</dc:creator>
+    <guid isPermaLink="false">9815 at https://www.fico.com</guid>
+    <category domain="https://www.fico.com/en/blogs?category=1238">decision-management</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1238">Decision Management</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/812">AI</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1068">Machine Learning</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/959">Decision Management</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/960">decision management suite</category>
+    </item>
+<item>
+    <title>Making The Digital Leap in Banking</title>
+    <link>https://www.fico.com/en/blogs/digital-transformation-banking</link>
+    <description>&lt;div class="blog-post blog-post--rss-item"&gt;
+    &lt;a href="https://www.fico.com/en/blogs/digital-transformation-banking"&gt;
+        &lt;img src="https://www.fico.com/sites/default/files/default_files/AdobeStock_104693500%402x.jpeg" alt="Making The Digital Leap in Banking" width="1880" height="1253" style="width: 100%;" /&gt;&lt;/a&gt;
+
+        
+            &lt;div&gt;&lt;p&gt;Digital transformation has hit the financial services industry. All firms, from large national banks to small regional credit unions, are beginning to disrupt the status quo within their own organizations. We see it in Goldman Sachs’ wildly successful consumer banking division, Marcus. We see it in &lt;a href="https://www.fico.com/en/newsroom/psecu-leverages-fico-technology-enhance-member-experiences"&gt;PSECU’s innovative application of digital communication capabilities across the lifecycle&lt;/a&gt;. The question isn’t will you transform, it’s when and how? The time is now, but it’s not that simple. Many banks are riddled with legacy technology, processes and mindsets. But most recognize the urgency to compete, stay relevant and give their customers what they want, and quite frankly, expect.&lt;/p&gt;
+
+&lt;p&gt;All too often, we see organizations attempt to rapidly evolve by slapping a digital front end on a very messy back end. The pressure to deliver a digital solution is ever increasing, as customers are becoming more and more demanding. Unfortunately, digital transformation doesn’t happen overnight (beware of any vendor who tells you otherwise). Banks should be careful to not offer more to their customers than what they can actually deliver. Here are some best practices to begin responsibly transforming.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Decide on your direction.&lt;/strong&gt; Some organizations are creating entirely new digital spin-offs, like Marcus from Goldman Sachs. It operates as an independent bank for the most part, and it’s identity is solely digital. Other institutions are attempting to digitize their existing infrastructure and products. Spin-off or wholesale transformation? There isn’t a right answer for every organization, but deciding on a clear direction before making investments is critical. &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Start small.&lt;/strong&gt; Transformation can be a misleading term. It suggests big, strategic projects run by cross-functional teams wielding with massive budgets. These are usually the traits of failed digital transformation initiatives. Successful, sustainable transformation requires small, but impactful changes within your organization. Be intentional and realistic in these decisions. Start by using digital capabilities in very specific and defined areas of your bank to improve the overall interactions you have with your customers. Use digital capabilities to fill in the gaps throughout your organization and expand from there.&lt;br /&gt;
+	 &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Don’t overpromise.&lt;/strong&gt; When marketing to your customers, help them understand that you use digital to help accommodate and improve the customer experience. Don’t pledge to deliver a fully digital experience (unless completely sure you’ll be able to). It may make a great advertisement or annual report for your shareholders but setting expectations too high leads to disappointed customers and higher attrition rates.&lt;br /&gt;
+	 &lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Keep the customer in mind.&lt;/strong&gt; Digital banking capabilities are powerful tools for improving your customers’ experiences and delivering new value to them. However, it is important to keep in mind that digital technologies are simply a means to an end (better serving customers) not the end in and of itself. It’s easy to get so locked into the ‘fintech arms race’ that you lose sight of the objectives justifying those investments. If you find yourself unable to quickly articulate the customer use case for a new technology or justifying a technology investment by citing a Gartner Magic Quadrant, take a step back and refocus on your customers.  &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Bank executives are under pressure from customers, shareholders, industry analysts, and competitors to digitize their businesses. While enthusiasm is important, it is even more important to do digital transformation well. Streamlining the customer onboarding process is great, but it will be much harder for you to deliver a great customer experience if you don’t ensure the rest of your processes and infrastructure are ready for it.&lt;/p&gt;
+&lt;/div&gt;
+      
+
+    &lt;div class="blog-post__author" style="display: flex; align-items: center;"&gt;
+        &lt;a href="https://www.fico.com/en/blogs/author/tom-johnson" class="blog-post__author__image"&gt;
+            &lt;img src="https://www.fico.com/sites/default/files/pictures/2019-07/Logo_50.jpg" alt="Tom Johnson" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;" /&gt;&lt;/a&gt;
+        &lt;span class="blog-post__author__name"&gt;
+            by &lt;a href="https://www.fico.com/en/blogs/author/tom-johnson"&gt;Tom Johnson&lt;/a&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Wed, 28 Aug 2019 04:13:34 +0000</pubDate>
+    <dc:creator>Tom Johnson</dc:creator>
+    <guid isPermaLink="false">9812 at https://www.fico.com</guid>
+    <category domain="https://www.fico.com/en/blogs?category=1240">customer-development</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1240">Customer Development</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/974">digital transformation</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/970">digital banking</category>
+    </item>
+<item>
+    <title>How To Improve Collection Performance</title>
+    <link>https://www.fico.com/en/blogs/how-to-improve-collection-performance</link>
+    <description>&lt;div class="blog-post blog-post--rss-item"&gt;
+    &lt;a href="https://www.fico.com/en/blogs/how-to-improve-collection-performance"&gt;
+        &lt;img src="https://www.fico.com/sites/default/files/default_files/AdobeStock_69115253%402x.jpeg" alt="How To Improve Collection Performance" width="1880" height="1253" style="width: 100%;" /&gt;&lt;/a&gt;
+
+        
+            &lt;div&gt;&lt;p&gt;Every organization that collects delinquent debt is faced with many of the same challenges: collect as much as you can, do it at the lowest possible cost, and do so in a way that is the least intrusive as possible.  It is rare for any debt collection organization to want to significantly expand their staffing.  Often, the goal is to do more with the same, or possibly even more with less.  That is why analytics is in such high demand.  Analytics offers the opportunity to work smarter, not harder.  Here are four key reasons to consider expanding your use of &lt;a href="https://www.fico.com/en/products/fico-collection-optimization"&gt;predictive and prescriptive analytics&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lower the Cost of Collections.&lt;/strong&gt;  Your best collectors, if they are given productive cases will collect money.  The key is to provide them with the right case at the right time.  Predictive models can literally forecast which cases are most likely to pay, and therefore the cases assigned to your collectors will be more productive.  Where the models predict the cases will be less productive, they can be sent to a collection agency or you can send them for alternative, lower cost treatments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enhanced Customer Service. &lt;/strong&gt; Predictive models can also help you enhance customer service in several ways.  Predictive models can allow you to give lower risk customers more time to self-cure.  Where the model predicts that a customer will pay through light touches, then you can give them more time to pay.  The tone of phone calls and letters can be less insistent, which will also result in fewer complaints.  Studies have shown that people who feel that they got better customer service are more likely to be compliant in the future.  For commercial clients, happy customers typically continue to shop with the same company.  By de-prioritizing these low risk cases, your staff can now focus on cases that likely wouldn’t be collected without their interventions.  This will also result in a lower cost of collection.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Continual Improvement.&lt;/strong&gt; Analytics can help you improve your operations by measuring the effect of individual changes to your collection approach.  Using a feedback technique called “test and learn” you can have, for example, 80% of your cases use the existing collection strategies, 10% of cases use one alternate strategy and 10% of cases use another alternate strategy.  The analytics can then accurately measure the impact of the changes from each strategy because all other factors will be kept in sync.  This approach can also be used to compare different timings for contacts, different letter messaging, different call campaigns, different payment agreements, etc.  Virtually any change in strategy can be compared accurately, rather than through hypothesis.  This will allow you to continually improve your operations, or implement hybrid approaches where different debtors receive different treatments, because the alternate treatments produce maximum results for each debtor pool.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Optimize Overall Performance.&lt;/strong&gt;  &lt;a href="https://www.fico.com/en/latest-thinking/on-demand-webinar/optimize-collections-and-recovery-step-by-step"&gt;Optimization, also known as Prescriptive Analytics&lt;/a&gt;, takes predictive analytics further by looking across an entire business process to find the single strategy or group of strategies that will result in the highest level of overall performance.  The goals can be simple (maximize dollars collected) or complex (maximize dollars, while over-performing on a specific workload, and minimizing specific actions).  The optimization algorithms can also account for staff, budget, legal and other constraints.&lt;/p&gt;
+
+&lt;p&gt;Prescriptive analytics also allows you to balance staff for each workload.  The analytics could show opportunities if staff were moved between specific workloads, or specific activities on cases.  It could show when to stop working a case, or where you have too many or two few resources working specific workloads.  Prescriptive Analytics, like the Predictive Analytics also can utilize a “learning loop” where the results of your models are fed back into the model, allowing for continual automated tuning of your models.  Where customer behaviors or economic changes have occurred, the models re-calibrate themselves to stay current over time.&lt;/p&gt;
+
+&lt;p&gt;It is also important to note that these analytics do not replace your own staff expertise, but rather they enhance your expertise.  The analytics allow you calculate options mathematically and provide you with an objective, mathematical framework for making objective decisions and achieving a higher level of performance.&lt;/p&gt;
+&lt;/div&gt;
+      
+
+    &lt;div class="blog-post__author" style="display: flex; align-items: center;"&gt;
+        &lt;a href="https://www.fico.com/en/blogs/author/ted-london" class="blog-post__author__image"&gt;
+            &lt;img src="https://www.fico.com/sites/default/files/pictures/2019-06/Ted-London.jpg" alt="Ted London" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;" /&gt;&lt;/a&gt;
+        &lt;span class="blog-post__author__name"&gt;
+            by &lt;a href="https://www.fico.com/en/blogs/author/ted-london"&gt;Ted London&lt;/a&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Wed, 28 Aug 2019 03:58:50 +0000</pubDate>
+    <dc:creator>Ted London</dc:creator>
+    <guid isPermaLink="false">9811 at https://www.fico.com</guid>
+    <category domain="https://www.fico.com/en/blogs?category=1239">debt-collection-and-recovery</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1239">Debt Collection &amp; Recovery</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/896">Collections</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/954">debt collection</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1051">intelligent collections</category>
+    </item>
+<item>
+    <title>Growing Percentage of Cybersecurity Incidents Caused By Third Parties</title>
+    <link>https://www.fico.com/en/blogs/cybersecurity-incidents-caused-by-third-parties</link>
+    <description>&lt;div class="blog-post blog-post--rss-item"&gt;
+    &lt;a href="https://www.fico.com/en/blogs/cybersecurity-incidents-caused-by-third-parties"&gt;
+        &lt;img src="https://www.fico.com/sites/default/files/default_files/AdobeStock_228579431%402x.jpeg" alt="Growing Percentage of Cybersecurity Incidents Caused By Third Parties" width="1880" height="1030" style="width: 100%;" /&gt;&lt;/a&gt;
+
+        
+            &lt;div&gt;&lt;p&gt;A growing percentage of cybersecurity incidents against businesses are the result of initial compromises against third parties, allowing malicious actors to gain access through a trusted relationship, move laterally and escalate privileges, and ultimately attain their target.&lt;/p&gt;
+
+&lt;p&gt;This risk is highlighted in a new report by the U.S. Chamber of Commerce and underscores the need for effective third-party risk management (TPRM).&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href="http://www.cyber-abc.com/"&gt;Q2 Assessment of Business Cyber Risk (ABC) report&lt;/a&gt; released this month by the U.S. Chamber of Commerce and FICO recorded a National Risk Score of 688, a slight improvement over the previous quarter’s score of 687. Since last quarter, the average score for large firms rose from 643 to 649 and small firms moved from 740 to 736.&lt;/p&gt;
+
+&lt;p&gt;The ABC’s National Risk Score is the revenue-weighted average of the &lt;a href="https://www.fico.com/en/products/cyber-risk-score"&gt;FICO® Cyber Risk Score&lt;/a&gt; for nearly 2,400 small, medium, and large companies. The score calculates the probability of an organization suffering a material data breach within the next 12 months.&lt;/p&gt;
+
+&lt;p&gt;“For years, the Chamber has urged organizations to adopt internet security fundamentals, including using the NIST Cybersecurity Framework for enterprise risk management,” said Christopher D. Roberti, senior vice president for cyber, intelligence, and security policy at the Chamber. “But we are seeing that organizations are being targeted through third parties and must take steps to integrate a tailored third-party risk management into an overall risk management plan.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New Business Imperative: Third-Party Risk Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Larger and more sophisticated firms will typically have well-developed TPRM programs. However, the increase of highly publicized breaches, awareness of cyber risk, and emerging and evolving compliance frameworks are driving small and midsize firms to adopt these programs as well.&lt;/p&gt;
+
+&lt;p&gt;“Knowing your cyber risk is invaluable and knowing the cyber risk of third parties you work with is essential,” said Doug Clare, vice president of cybersecurity solutions at FICO. “Third-party risk management is emerging as one of the most important priorities for IT and security departments nationwide, and cybersecurity risk assessments are an increasingly important component of the broader TPRM framework.”&lt;/p&gt;
+
+&lt;p&gt;To help businesses recognize and mitigate third-party risk, the ABC report offers four key steps that organizations should include within a broader third-party management framework:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Build a framework for third-party categorization&lt;/li&gt;
+	&lt;li&gt;Develop workflow to address the intersection of risk and criticality&lt;/li&gt;
+	&lt;li&gt;Assess high-impact suppliers frequently&lt;/li&gt;
+	&lt;li&gt;Ensure appropriate risk transfer&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;More information on these four steps can be found in the &lt;a href="http://cyber-abc.com/"&gt;report&lt;/a&gt; and on the &lt;a href="https://www.fico.com/blogs/four-steps-managing-third-party-cyber-security-risk"&gt;FICO Blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.fico.com/en/newsroom/assessment-business-cyber-risk-shows-slight-improvement-national-risk-score-and-0"&gt;Read the full media release&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Organizations that choose to learn more about their specific security performance can register for a free subscription at &lt;a href="http://cyberscore.fico.com/"&gt;http://cyberscore.fico.com&lt;/a&gt;. A new &lt;a href="https://www.chartis-research.com/ai-machine-learning/vendor-analysis-fico-artificial-intelligence-financial-services-2019-10756"&gt;report&lt;/a&gt; from Chartis Research named FICO as a category leader in cyber risk quantification.&lt;/p&gt;
+&lt;/div&gt;
+      
+
+    &lt;div class="blog-post__author" style="display: flex; align-items: center;"&gt;
+        &lt;a href="https://www.fico.com/en/blogs/author/doug-clare" class="blog-post__author__image"&gt;
+            &lt;img src="https://www.fico.com/sites/default/files/pictures/2019-07/Doug-Clare.jpg" alt="Doug Clare" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;" /&gt;&lt;/a&gt;
+        &lt;span class="blog-post__author__name"&gt;
+            by &lt;a href="https://www.fico.com/en/blogs/author/doug-clare"&gt;Doug Clare&lt;/a&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Wed, 28 Aug 2019 03:55:34 +0000</pubDate>
+    <dc:creator>Doug Clare</dc:creator>
+    <guid isPermaLink="false">9810 at https://www.fico.com</guid>
+    <category domain="https://www.fico.com/en/blogs?category=1241">fraud-protection-and-compliance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1241">Fraud Protection &amp; Compliance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/941">cyber attacks</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/943">Cybersecurity</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/942">cyberinsurance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/944">cybertrends</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1244">business security</category>
+    </item>
+<item>
+    <title>CCB Taps Youth Market by Leveraging Big Data</title>
+    <link>https://www.fico.com/en/blogs/china-unbanked-youth</link>
+    <description>&lt;div class="blog-post blog-post--rss-item"&gt;
+    &lt;a href="https://www.fico.com/en/blogs/china-unbanked-youth"&gt;
+        &lt;img src="https://www.fico.com/sites/default/files/default_files/AdobeStock_214456618%402x.jpeg" alt="CCB Taps Youth Market by Leveraging Big Data" width="1880" height="1058" style="width: 100%;" /&gt;&lt;/a&gt;
+
+        
+            &lt;div&gt;&lt;p&gt;&lt;a href="http://www.ccb.com/en/home/indexv3.html"&gt;&lt;strong&gt;China Construction Bank (CCB)&lt;/strong&gt;&lt;/a&gt; hopes to reach more millennial consumers and is using alternative scoring services to improve decision making and improve financial inclusion efforts to reach this demographic.&lt;/p&gt;
+
+&lt;p&gt;China's large unbanked market, numbering close to 500 million, represents a significant opportunity for banks, especially among youth, who have a growing demand for credit but lack on-bureau credit history that limits a bank’s ability to understand their credit risk.&lt;/p&gt;
+
+&lt;p&gt;CCB, one of China's "big four" banks, is hoping to unlock this market is by using alternative scoring services to improve the approval and automation rate of its credit card business. &lt;/p&gt;
+
+&lt;p&gt;“This project has enabled us to combine external big data, bureau scores with our internal data to enhance our predictive power when calculating the credit risk for the youth population,” said &lt;strong&gt;Mr. Erpeng Zhang, director of credit card center, China Construction Bank&lt;/strong&gt;. “Partnering with the FICO team, we have significantly improved our origination efficiency while maintaining our risk profiles. Our new risk-based underwriting strategy is helping to us to maximize our overall profitability while expanding lending to millennials.”&lt;/p&gt;
+
+&lt;p&gt;Using the FICO big data scorecard, CCB has achieved a number of benefits. It has seen a significant lift in its credit card approval rates and the automation of these approvals. The bank has also increased its lending predictive power using eight segment-level scorecards. Plus, CCB has integrated FICO’s industry-leading big data score with its reservoir of application, bureau and internal data.&lt;/p&gt;
+
+&lt;p&gt;For its achievements, CCB won a &lt;a href="https://www.fico.com/decisionsawards/"&gt;&lt;strong&gt;2018 FICO® Decisions Award for Financial Inclusion.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.fico.com/en/newsroom/china-construction-bank-expands-its-business-millennial-credit-card-holders-using-big-data"&gt;Read the full media release&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+
+    &lt;div class="blog-post__author" style="display: flex; align-items: center;"&gt;
+        &lt;a href="https://www.fico.com/en/blogs/author/fico" class="blog-post__author__image"&gt;
+            &lt;img src="https://www.fico.com/sites/default/files/pictures/2019-06/Logo.jpg" alt="FICO" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;" /&gt;&lt;/a&gt;
+        &lt;span class="blog-post__author__name"&gt;
+            by &lt;a href="https://www.fico.com/en/blogs/author/fico"&gt;FICO&lt;/a&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Tue, 20 Aug 2019 12:29:58 +0000</pubDate>
+    <dc:creator>FICO</dc:creator>
+    <guid isPermaLink="false">9787 at https://www.fico.com</guid>
+    <category domain="https://www.fico.com/en/blogs?category=1242">scoring-solutions</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1242">Scoring Solutions</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1170">scores</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/889">china</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1169">scorecards</category>
+    </item>
+<item>
+    <title>Is First-Party Fraud a Credit Risk Problem?</title>
+    <link>https://www.fico.com/en/blogs/first-party-fraud-credit-risk-problem</link>
+    <description>&lt;div class="blog-post blog-post--rss-item"&gt;
+    &lt;a href="https://www.fico.com/en/blogs/first-party-fraud-credit-risk-problem"&gt;
+        &lt;img src="https://www.fico.com/sites/default/files/2019-07/AdobeStock_176790944%402x.jpeg" alt="Is First-Party Fraud a Credit Risk Problem?" width="1880" height="1504" style="width: 100%;" /&gt;&lt;/a&gt;
+
+        
+            &lt;div&gt;&lt;p&gt;First-party fraud refers to an applicant or customer’s intention to commit fraud, whether through use of a true, manipulated or synthetic identity. It’s difficult to define the problem and many banking professionals debate the merits of who “owns” the first-party fraud problem — the credit risk group or the fraud group.&lt;/p&gt;
+
+&lt;p&gt;However, even as the two groups have distinctly different functions at most financial institutions, both touch almost every point of the customer lifecycle — from marketing to origination, to management, to account closure — including collections and recovery. Given that analysts estimate 20% of the bad debt book is actually fraud, I would posit credit risk and fraud are two sides of the same coin when it comes to first-party fraud&lt;/p&gt;
+
+&lt;p&gt;Banks shouldn’t be asking themselves, “What function should own the first-party fraud problem?” Instead, they should be asking themselves, “How do we stop first-party fraud across the customer lifecycle, regardless of function?”&lt;/p&gt;
+
+&lt;p&gt;Check out my latest Hot Topic, &lt;strong&gt;&lt;a href="https://www.fico.com/en/latest-thinking/executive-brief/predicting-first-party-fraud-bridging-chasm-between-credit-risk-and-fraud"&gt;“Predicting First-Party Fraud: Bridging the Chasm Between Credit Risk and Fraud,”&lt;/a&gt;&lt;/strong&gt; to learn more about FICO’s perspective on how we can manage customer relationships in a more informed, profitable way. Here are some highlights.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:12pt"&gt;&lt;span style="font-family:"Calibri",sans-serif"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2&gt;The Relationship Between Credit Risk and First-Party Fraud&lt;/h2&gt;
+
+&lt;p&gt;Because it’s very difficult to detect first-party fraud, there is no standard definition of it. As a result, money lost to first-party fraud often gets written off as bad debt, and that’s a credit risk problem.&lt;/p&gt;
+
+&lt;p&gt;For example, when I reviewed the annual reports of several regional banks, with $125 billion to $375 billion in assets, gross charge-offs for credit cards ranged from $100 million to $200 million. If we conservatively estimate that 10% of that is first-party fraud, there is $10 million to $20 million in annual losses we should be trying to mitigate.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we have more recently observed that brute-force fraud attacks can result in $10 million or more in losses over the period of just a few weeks. Post-mortem investigations of these attacks suggest that losses to first-party fraud can be tenfold as high as those from identity theft.&lt;/p&gt;
+
+&lt;h2&gt;Credit Risk and Fraud Across the Customer Lifecycle&lt;/h2&gt;
+
+&lt;p&gt;This is easily visualized with a timeline perspective. In fraud, our opportunity to stem the tide of losses begins at point of application and flows through monitoring post-book customer portfolios for evolving application fraud risk over time, detecting account takeover and payments fraud, and automating the resolution of fraud cases and disputes.&lt;/p&gt;
+
+&lt;p&gt;In credit risk, underwriting and account origination are tied to application fraud. And the intelligence learned here should be carried downstream for further risk mitigation in customer and account management, collections, and more. Mapping out these product lines together, visually, shows a clear lifecycle continuum.&lt;/p&gt;
+&lt;figure role="group"&gt;&lt;img alt="Continuum graphic" data-entity-type="file" data-entity-uuid="dfdcb33f-d610-4d63-9e9b-4dd7cc8982a1" src="https://www.fico.com/sites/default/files/inline-images/First-Party-Fraud-Continuum.png" /&gt;&lt;figcaption&gt;Source: FICO Blog&lt;/figcaption&gt;&lt;/figure&gt;&lt;h2&gt;How FICO Takes an Analytical Approach to Stopping First-Party Fraud&lt;/h2&gt;
+
+&lt;p&gt;Simply put, when we know about someone’s potential for fraud, we can use that data to inform strategies across the customer lifecycle, to protect against first-party bust-out fraud. First-party fraud risk doesn’t have to be black and white; it can exist on the scale of an analytically derived, machine learning predictive score.&lt;/p&gt;
+
+&lt;h2&gt;How Fraud Risk Can Change Over Time&lt;/h2&gt;
+
+&lt;p&gt;Our perception of customers actually changes over time based on new data we learn from and about them. Any customer can start out looking legitimate, but we often gain access to new information once they are on book that suggests fraudulent intentions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.fico.com/en/products/fico-identity-resolution-engine"&gt;FICO® Identity Resolution Engine&lt;/a&gt; helps monitor first-party fraud risk over time by automatically ingesting and analyzing emerging customer information and behaviors to continuously evolve our understanding of fraud risk.&lt;/p&gt;
+
+&lt;p&gt;Download &lt;strong&gt;&lt;a href="https://www.fico.com/en/latest-thinking/executive-brief/predicting-first-party-fraud-bridging-chasm-between-credit-risk-and-fraud"&gt;“Predicting First-Party Fraud: Bridging the Chasm Between Credit Risk and Fraud”&lt;/a&gt;&lt;/strong&gt; now to get the full story. Follow me on Twitter &lt;a href="https://twitter.com/LizFightsFraud"&gt;@LizFightsFraud&lt;/a&gt; to keep up with my thoughts on a wide range of fraud topics.  &lt;/p&gt;
+&lt;/div&gt;
+      
+
+    &lt;div class="blog-post__author" style="display: flex; align-items: center;"&gt;
+        &lt;a href="https://www.fico.com/en/blogs/author/liz-lasher" class="blog-post__author__image"&gt;
+            &lt;img src="https://www.fico.com/sites/default/files/pictures/2019-07/Liz-Lasher.jpg" alt="Liz Lasher" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;" /&gt;&lt;/a&gt;
+        &lt;span class="blog-post__author__name"&gt;
+            by &lt;a href="https://www.fico.com/en/blogs/author/liz-lasher"&gt;Liz Lasher&lt;/a&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Fri, 16 Aug 2019 13:42:34 +0000</pubDate>
+    <dc:creator>Liz Lasher</dc:creator>
+    <guid isPermaLink="false">9782 at https://www.fico.com</guid>
+    <category domain="https://www.fico.com/en/blogs?category=1241">fraud-protection-and-compliance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1241">Fraud Protection &amp; Compliance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1023">first-party fraud</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/913">Credit Fraud</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/837">Application Fraud</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/988">Enterprise Fraud Management</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1027">fraud management</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1026">Fraud</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1157">Risk Management</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/918">Credit Risk</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/896">Collections</category>
+    </item>
+<item>
+    <title>New Machine Learning Models Catch CNP Fraud Faster</title>
+    <link>https://www.fico.com/en/blogs/new-machine-learning-models-catch-cnp-fraud-faster</link>
+    <description>&lt;div class="blog-post blog-post--rss-item"&gt;
+    &lt;a href="https://www.fico.com/en/blogs/new-machine-learning-models-catch-cnp-fraud-faster"&gt;
+        &lt;img src="https://www.fico.com/sites/default/files/default_files/timon-studler-63413-unsplash%402x.jpg" alt="New Machine Learning Models Catch CNP Fraud Faster" width="2880" height="1920" style="width: 100%;" /&gt;&lt;/a&gt;
+
+        
+            &lt;div&gt;&lt;p&gt;With &lt;a href="https://www.forrester.com/report/Forrester+Analytics+Luxury+Retail+Forecast+2018+To+2023+Global/-/E-RES147195"&gt;eCommerce driving 39% of luxury sales growth in 2017&lt;/a&gt;, a number that is expected to rise to 59% by 2023, even venerable brick-and-mortar retailers are succumbing to the heat. In New York City, retail icons &lt;a href="https://www.nytimes.com/2019/08/08/nyregion/dean-deluca-barneys-bankruptcy.html"&gt;Barneys New York and Dean &amp; Deluca are in bankruptcy&lt;/a&gt;, victims of rising rents and a dramatic increase in online purchases of luxury goods.&lt;/p&gt;
+
+&lt;p&gt;Those online purchases are big—for example, &lt;a href="https://www.npd.com/wps/portal/npd/us/news/press-releases/2019/luxury-fashion-spending-is-on-the-rise-online-reports-npd/"&gt;nearly half of the online luxury fashion dollar sales comes from footwear&lt;/a&gt;, which has the highest average annual spend per buyer and annual purchase frequency. In 2017, the &lt;a href="https://www.npd.com/wps/portal/npd/us/news/press-releases/2019/luxury-fashion-spending-is-on-the-rise-online-reports-npd/"&gt;average online luxury footwear spend increased 4% to $794&lt;/a&gt;, and purchase frequency also increased slightly to 1.6 times per year.&lt;/p&gt;
+
+&lt;p&gt;These trends are catnip for fraudsters looking to perpetrate high-value card-not-present (CNP) fraud. Data from the &lt;a href="https://www.fico.com/en/fico-falcon-intelligence-network"&gt;FICO® Falcon® Intelligence Network&lt;/a&gt; confirms that 70% of total frauds in UK and US are stemming from CNP transactions. Many of the frauds are single high-value CNP transactions.&lt;/p&gt;
+
+&lt;h2&gt;Fighting Back Against CNP Fraud&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://www.fico.com/en/products/fico-falcon-platform"&gt;FICO® Falcon Fraud Platform&lt;/a&gt; models have always been in the forefront of using machine learning technology to detect fraudulent payment transactions. In 2018, we released CNP technology that &lt;a href="https://www.fico.com/en/newsroom/fico-machine-learning-algorithms-improve-by-30-percent"&gt;improved real-time value detection rate for CNP transactions by more than 30%&lt;/a&gt; for a given value of genuine decline rate (GDR). We achieved this improvement using machine learning technology to detect the first fraudulent CNP transaction as quickly as possible.&lt;/p&gt;
+
+&lt;p&gt;But for some fraud teams, acting on the first high-scoring, high-value suspicious transaction proved to an operational challenge. In 2019 we have refined our CNP technology, leveraging AI algorithms to make it easier for clients to operationalize the score behavior. As a result, they can realize the optimum benefit of the model-balancing account and transaction model performance, where early suspicious transaction behavior carries on to subsequent purchases, allowing for better account fraud characteristics. The CNP technology continues to focus on the earliest high value fraud ecommerce transactions during a fraud episode — a capability of utmost important to the luxury eCommerce industry.&lt;/p&gt;
+
+&lt;h2&gt;Improved Fraudulent Transaction Velocity Detection&lt;/h2&gt;
+
+&lt;p&gt;Our simulations show that these improvements to the 2019 CNP model design are able to maintain an aggressive Falcon score on the first high-value fraud transaction, with the score remaining higher on a few subsequent fraud transactions. This helps to abate customer challenges in working with the first transaction in a fraud episode.&lt;/p&gt;
+
+&lt;p&gt;With this enhancement, Falcon users will continue to get an improved real-time value detection rate, as in the original CNP-2018 technology –– and they also will now experience an extended window of high-scoring subsequent fraud transactions to allow more time to act on the suspicious account if the first high-value fraudulent transaction is missed.&lt;/p&gt;
+
+&lt;p&gt;The bottom line: As illustrated in Figure 1 below, FICO’s new CNP-2019 model design will be much easier to operationalize, whether fraud operations are transaction- or account-based, and will continue to catch CNP frauds faster in the battle against financial crime.&lt;/p&gt;
+&lt;figure role="group"&gt;&lt;img alt="FICO Chart" data-entity-type="file" data-entity-uuid="d3bceac1-e20c-41c7-8cc8-3011d26a35c7" src="https://www.fico.com/sites/default/files/inline-images/CNP-Fraud-2019.png" /&gt;&lt;figcaption&gt;&lt;strong&gt;FICO’s CNP-2019 model design catches more high-value fraud transactions, and allows easier operationalization, either transaction or account based.&lt;br /&gt;
+Source: FICO Blog&lt;/strong&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Keep up with the latest in this data scientist’s battle against financial and cyber crimes of all kinds on Twitter &lt;a href="https://twitter.com/ScottZoldi"&gt;@ScottZoldi&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+      
+
+    &lt;div class="blog-post__author" style="display: flex; align-items: center;"&gt;
+        &lt;a href="https://www.fico.com/en/blogs/author/scott-zoldi" class="blog-post__author__image"&gt;
+            &lt;img src="https://www.fico.com/sites/default/files/pictures/2019-06/Scott-Zoldi.jpg" alt="Scott Zoldi" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;" /&gt;&lt;/a&gt;
+        &lt;span class="blog-post__author__name"&gt;
+            by &lt;a href="https://www.fico.com/en/blogs/author/scott-zoldi"&gt;Scott Zoldi&lt;/a&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Wed, 14 Aug 2019 12:59:58 +0000</pubDate>
+    <dc:creator>Scott Zoldi</dc:creator>
+    <guid isPermaLink="false">9777 at https://www.fico.com</guid>
+    <category domain="https://www.fico.com/en/blogs?category=1241">fraud-protection-and-compliance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1241">Fraud Protection &amp; Compliance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1026">Fraud</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1027">fraud management</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/911">credit cards</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/913">Credit Fraud</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1068">Machine Learning</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/812">AI</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/893">CNP</category>
+    </item>
+<item>
+    <title>How to Protect Your Children from Identity Fraud</title>
+    <link>https://www.fico.com/en/blogs/how-protect-your-children-identity-fraud</link>
+    <description>&lt;div class="blog-post blog-post--rss-item"&gt;
+    &lt;a href="https://www.fico.com/en/blogs/how-protect-your-children-identity-fraud"&gt;
+        &lt;img src="https://www.fico.com/sites/default/files/2019-07/Fraud%402x_1.jpg" alt="How to Protect Your Children from Identity Fraud" width="1880" height="1253" style="width: 100%;" /&gt;&lt;/a&gt;
+
+        
+            &lt;div&gt;&lt;p&gt;If, like me, you’re a parent of young children, you know the routines and priorities: feed, bathe, vaccinate, read to, save for college, and choose your toddler battles wisely. But, no matter how young or old your children may be, there’s one important task you should not neglect: freeze their credit.&lt;/p&gt;
+
+&lt;p&gt;Why? &lt;a href="https://www.nerdwallet.com/blog/finance/synthetic-identity-theft/"&gt;Child identity fraud&lt;/a&gt; is an alarmingly large and growing problem. &lt;/p&gt;
+
+&lt;p&gt;A &lt;a href="https://www.javelinstrategy.com/node/59561"&gt;2018 report released by Javelin Strategy &amp; Research&lt;/a&gt; found that more than one million children were victims of identity fraud in 2017. The widespread damage included:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Total losses of $2.6 billion&lt;/li&gt;
+	&lt;li&gt;Families incurring $540 million in out-of-pocket costs&lt;/li&gt;
+	&lt;li&gt;Targeting of young children - two-thirds of victims were younger than eight years old&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;As I’ve blogged about previously, &lt;a href="https://www.fico.com/blogs/fraud-security/synthetic-identities/"&gt;synthetic identity fraud is rampant&lt;/a&gt;, and fraudsters are growing ever-more sophisticated. &lt;a href="https://news.cuna.org/articles/115020-fraudsters-turn-to-synthetic-identity-theft"&gt;Industry estimates&lt;/a&gt; attribute around 80% of credit card fraud losses to synthetic identity fraud and child identity theft. (On a clarifying note, synthetic identity creation is sometimes considered first-party fraud, whereas identity theft is considered third-party fraud. Child identity fraud is a combination of both, as described below.)&lt;/p&gt;
+
+&lt;h2&gt;How Fraudsters Target Children&lt;/h2&gt;
+
+&lt;p&gt;For many years, fraudsters have exploited the Social Security Numbers (SSN) of recently deceased persons, a technique called &lt;a href="https://www.lifelock.com/learn-identity-theft-resources-what-is-ghosting-one-more-form-identity-theft.html"&gt;ghosting&lt;/a&gt;. The American Association of Retired Persons reports that &lt;a href="https://www.aarp.org/money/scams-fraud/info-03-2013/protecting-the-dead-from-identity-theft.html"&gt;fraudsters use the identities of 2.5 million deceased people&lt;/a&gt; to create synthetic identities, which are created when &lt;a href="https://news.cuna.org/articles/115020-fraudsters-turn-to-synthetic-identity-theft"&gt;fraudsters pair stolen SNNs with fictitious personal information&lt;/a&gt;. It differs from identity theft, in which the personal information of an existing adult consumer is stolen and used by the fraudster to acquire credit.  &lt;/p&gt;
+
+&lt;p&gt;Now, rather than combing through public death records to capture SSNs, criminals are targeting those of the youngest Americans. In part, this is due to a change made in 2011 by the &lt;a href="https://www.ssa.gov/employer/randomization.html"&gt;U.S. Social Security Administration in the way it generates SSNs&lt;/a&gt;. While previously the formatting of SSNs allowed validation of the SSN’s “age” as a sanity check to legitimate inquiries, the new process, called randomization, allows fraudsters to exploit dormant SSNs, e.g., those of children born after the change took effect.&lt;/p&gt;
+
+&lt;p&gt;Identity thieves take a child’s SSN and use it alongside a fictitious name, address, phone, and birthday to apply for credit and open accounts – essentially creating a fabricated or compilated identity known as a synthetic ID. Randomization also makes it harder for financial institutions to verify legitimacy, as the first five digits are no longer indicative of the holder’s birthplace, as was the case in the former SSN numbering convention. It’s the basis of a &lt;a href="https://news.cuna.org/articles/115020-fraudsters-turn-to-synthetic-identity-theft"&gt;scheme that is pristine&lt;/a&gt;, according to Jason Kratovil, executive director of the Consumer First Coalition, because: &lt;/p&gt;
+
+&lt;p&gt;“Since this is a child’s SSN paired with made-up information (although only the criminal knows this), no file can be provided to the bank, likely leading to a declined application. However, as is the process by which many consumers become credit-active, this inquiry triggers the creation of a file at the credit reporting agency, but with the fraudulent information. Thus, a ‘synthetic’ identity is born.”&lt;/p&gt;
+
+&lt;p&gt;Children’s identities are a perfect target because a SSN is required by the IRS for parents to claim their newborns as dependents. While most Americans get their SSN at a very early age, there is no logical reason to check children’s credit scores, so any fraud perpetrated against these victims is typically undetected until they turn 18, leaving them with massive debt before they've even reached voting age.&lt;/p&gt;
+
+&lt;h2&gt;Why Should Parents Care, and What Should They Do&lt;/h2&gt;
+
+&lt;p&gt;Child identity fraud should be a concern for parents because when it occurs and goes undetected until your child reaches adulthood, he or she may be unable to get a loan, rent an apartment, or engage in other essential financial activities. Here’s what you can do now:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Check your child’s credit:&lt;/strong&gt; &lt;a href="https://www.creditcards.com/credit-card-news/how-check-childs-credit-report-1270.php"&gt;The Federal Trade Commission recommends&lt;/a&gt;, “It’s a good idea to check whether your child has a credit report close to the child’s 16th birthday. If there is one –– and it has errors due to fraud or misuse –– you will have time to correct it before the child applies for a job, a loan for tuition or a car, or needs to rent an apartment.” &lt;a href="https://creditcards.usnews.com/articles/how-to-check-your-childs-credit-report"&gt;Here’s how to check your child’s credit report&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Freeze your child’s credit:&lt;/strong&gt; Law requires credit bureaus to offer free credit freezes for adults and children under age 16. &lt;a href="https://www.savingforcollege.com/article/how-to-freeze-a-childs-credit"&gt;Here’s how you can freeze your child’s credit&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Take action if you suspect fraud:&lt;/strong&gt; The &lt;a href="https://www.idtheftcenter.org/info-sheet-child-identity-theft/" target="_blank"&gt;Identity Theft Resource Center&lt;/a&gt; provides several warning flags for child identity fraud, including:
+	&lt;ul&gt;&lt;li&gt;Calls from collection agencies, bills or credit cards sent to your home in your child’s name.&lt;/li&gt;
+		&lt;li&gt;A child receiving preapproved credit card applications, or government notices related to taxes, benefits or even traffic violations.&lt;/li&gt;
+		&lt;li&gt;A child having a bank account application denied because of poor credit history.&lt;/li&gt;
+		&lt;li&gt;The mere existence of a credit report in the child’s name.&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href="https://www.annualcreditreport.com/requestingReportsInSpecialSituations.action" target="_blank"&gt;AnnualCreditReport.com&lt;/a&gt;, an official website &lt;a href="https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/"&gt;affiliated with the Consumer Financial Protection Bureau&lt;/a&gt;, outlines steps to take if you suspect fraud involving your child’s identity. Such steps include alerting all three credit reporting agencies, &lt;a href="https://www.creditcards.com/credit-card-news/why-file-police-report-card-fraud-1282.php" target="_blank"&gt;filing a police report&lt;/a&gt; and &lt;a href="https://www.consumerfinance.gov/complaint/" target="_blank"&gt;filing a complaint with the Consumer Financial Protection Bureau.&lt;/a&gt; You also can &lt;a href="https://www.ftccomplaintassistant.gov/GettingStarted?NextQID=1&amp;Url=%23%26panel1-2#crnt" target="_blank"&gt;file a complaint with the FTC&lt;/a&gt;, and call the &lt;a href="https://www.idtheftcenter.org/info-sheet-child-identity-theft/" target="_blank"&gt;Identity Theft Resource Center&lt;/a&gt; at 888-400-5530.&lt;/p&gt;
+
+&lt;h2&gt;What Can Banks Do?&lt;/h2&gt;
+
+&lt;p&gt;What if you're a bank, and want to help your customers prevent this kind of fraud? &lt;a href="https://www.americanbanker.com/opinion/safeguard-data-on-kids-reap-customer-retention-rewards?brief=00000160-700b-dbf5-a562-788b36110000"&gt;Check out my article&lt;/a&gt; in the BankThink section of &lt;em&gt;American Banker&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In addition to being a mom, I fight fraud every day in my role as leader of &lt;a href="https://www.fico.com/en/products?category=636"&gt;FICO’s Fraud Product Marketing and Portfolio Strategy&lt;/a&gt;. Follow me on Twitter &lt;a href="https://twitter.com/LizFightsFraud"&gt;@lizfightsfraud&lt;/a&gt;. &lt;/p&gt;
+&lt;/div&gt;
+      
+
+    &lt;div class="blog-post__author" style="display: flex; align-items: center;"&gt;
+        &lt;a href="https://www.fico.com/en/blogs/author/liz-lasher" class="blog-post__author__image"&gt;
+            &lt;img src="https://www.fico.com/sites/default/files/pictures/2019-07/Liz-Lasher.jpg" alt="Liz Lasher" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;" /&gt;&lt;/a&gt;
+        &lt;span class="blog-post__author__name"&gt;
+            by &lt;a href="https://www.fico.com/en/blogs/author/liz-lasher"&gt;Liz Lasher&lt;/a&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Mon, 12 Aug 2019 09:33:03 +0000</pubDate>
+    <dc:creator>Liz Lasher</dc:creator>
+    <guid isPermaLink="false">9775 at https://www.fico.com</guid>
+    <category domain="https://www.fico.com/en/blogs?category=1241">fraud-protection-and-compliance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1241">Fraud Protection &amp; Compliance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1023">first-party fraud</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1026">Fraud</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1027">fraud management</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/837">Application Fraud</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/905">Consumer Issues</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1043">identity theft</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1199">synthetic identity fraud</category>
+    </item>
+<item>
+    <title>2019 Non-Prime Automotive Finance Survey: Top 7 Highlights</title>
+    <link>https://www.fico.com/en/blogs/2019-non-prime-automotive-finance-survey-top-7-highlights</link>
+    <description>&lt;div class="blog-post blog-post--rss-item"&gt;
+    &lt;a href="https://www.fico.com/en/blogs/2019-non-prime-automotive-finance-survey-top-7-highlights"&gt;
+        &lt;img src="https://www.fico.com/sites/default/files/2019-07/AdobeStock_69120905%402x.jpeg" alt="2019 Non-Prime Automotive Finance Survey: Top 7 Highlights" width="1880" height="1253" style="width: 100%;" /&gt;&lt;/a&gt;
+
+        
+            &lt;div&gt;&lt;p&gt;Automotive finance is a cyclical industry. So, where do we stand in today’s non-prime auto finance market? That’s the key question the 2019 Non-Prime Automotive Finance Survey sought to answer.&lt;/p&gt;
+
+&lt;p&gt;The survey results were released during the 23rd Non-Prime Auto Finance Conference held June 4th-7th in Plano, Texas. The NAF Association and AFSA collaborated with FICO, TransUnion, IHS Markit, and Black Book to generate the report, which serves as a key source of benchmarking for those who participate in or support non-prime automotive financing.&lt;/p&gt;
+
+&lt;p&gt;The 2019 report represents 34 financing sources and $20.4 billion in principal balance as of the end of 2018 — an increase for the seventh consecutive year. Data included individuals with a FICO&lt;sup&gt;®&lt;/sup&gt; Auto Score 8 (which has a 250-900 range) of less than 650.&lt;/p&gt;
+
+&lt;p&gt;In addition to key financial metrics, the report promotes best practices and collective knowledge of leading industry professionals, ensuring that financing companies can meet their portfolio goals and work effectively with their dealers, liquidity providers, vendors, and other partners to create compelling customer value.&lt;/p&gt;
+
+&lt;p&gt;For the second year, FICO administered the survey and provided the analysis and conclusions in the report. Here are the top 7 highlights from this year’s survey:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Portfolio Growth Accelerated&lt;/strong&gt;&lt;br /&gt;
+Non-prime portfolio balances increased an impressive 7.07% YoY in 2018 and stand at $1.143 trillion.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:11.0pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span style="font-family:"Arial",sans-serif"&gt;&lt;span style="color:#333333"&gt;&lt;img alt="Total outstanding auto loan balances (in trillions)" data-entity-type="file" data-entity-uuid="aa31465a-94ac-4bc0-9157-2600bc260b7b" src="https://www.fico.com/sites/default/files/inline-images/Screen%20Shot%202019-08-05%20at%202.09.11%20PM.png" /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Originations Accelerated&lt;/strong&gt;&lt;br /&gt;
+The market contraction is over, and the non-prime market is expanding across all finance sources—banks, captives, credit unions, and independents.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;span style="font-size:11.0pt"&gt;&lt;span style="line-height:107%"&gt;&lt;span style="font-family:"Arial",sans-serif"&gt;&lt;span style="color:#2f5496"&gt;&lt;img alt="Change in number of &lt;650 FICO Score contracts originated" data-entity-type="file" data-entity-uuid="42fa0d9f-5bbf-49ca-b60b-1aae6ae6682c" src="https://www.fico.com/sites/default/files/inline-images/Screen%20Shot%202019-08-05%20at%202.09.20%20PM.png" /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Losses Improved&lt;/strong&gt;&lt;br /&gt;
+Lenders saw fewer losses in 2018. The average net charge-off rates declined 0.9% YoY, while the loan loss allowance decreased 0.6% YoY in 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Avg Net Charge-Off Rates &amp; Loan Loss Allowance" data-entity-type="file" data-entity-uuid="30e4d928-e720-43ce-93a4-fa5a5b7be682" src="https://www.fico.com/sites/default/files/inline-images/Screen%20Shot%202019-08-05%20at%202.09.29%20PM.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Returns Improved&lt;/strong&gt;&lt;br /&gt;
+Lenders saw an overall improvement on returns. The return on average assets increased 0.8% YoY, while the return on average equity increased 3.3% YoY in 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Return on avg assets and return on avg equity" data-entity-type="file" data-entity-uuid="8cc01ee4-9aac-421f-8e10-0798b5fa6f16" src="https://www.fico.com/sites/default/files/inline-images/Screen%20Shot%202019-08-05%20at%202.09.43%20PM.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. FICO&lt;sup&gt;®&lt;/sup&gt; Scores Declined&lt;/strong&gt;&lt;br /&gt;
+The average FICO&lt;sup&gt;®&lt;/sup&gt; Score for originations in the non-prime market dropped 13 points YoY. Data included individuals with a FICO&lt;sup&gt;®&lt;/sup&gt; Auto Score 8 (which has a 250-900 range) of less than 650. &lt;a href="https://www.mercatoradvisorygroup.com/Press_Releases/FICO%C2%AE_Scores_Used_in_Over_90__of_Lending_Decisions_According_to_New_Study/"&gt;Mercator Advisory Group&lt;/a&gt; found that FICO® Scores are used in over 90% of lending decisions, including auto securitizations.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;img alt="Average FICO Score for Originations" data-entity-type="file" data-entity-uuid="175083c9-4db9-4db5-9126-df120aef1fef" src="https://www.fico.com/sites/default/files/inline-images/Screen%20Shot%202019-08-05%20at%202.09.50%20PM.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Average Contract Terms Lengthened &amp; Payments Increased&lt;/strong&gt;&lt;br /&gt;
+Loan terms are getting longer, and loan payments are getting higher. The average contract term increased for both new and used vehicles. Used vehicles saw terms increase by 3 months YoY, while new cars saw terms increase 5 months YoY.  &lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Avg term for &lt;650 FICO Score originations" data-entity-type="file" data-entity-uuid="8513dba1-b9e7-4b01-991e-bbf4093737fd" src="https://www.fico.com/sites/default/files/inline-images/Screen%20Shot%202019-08-05%20at%202.09.59%20PM.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;The average auto payment in non-prime also increased for new and used vehicles—with a YoY increase of $21/month for used vehicles and $42/month for new vehicles.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Avg payment for &lt;650 FICO Score originations" data-entity-type="file" data-entity-uuid="9b4441e4-d25f-4745-ab73-86e9b7ff2537" src="https://www.fico.com/sites/default/files/inline-images/Screen%20Shot%202019-08-05%20at%202.10.06%20PM.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. Non-Prime Customers ARE Mainstream America&lt;/strong&gt;&lt;br /&gt;
+Customers with non-prime credit represent mainstream America, with employment sectors including 3 of the top-10 healthcare companies, 3 of the top-10 government agencies, 5 of the top-10 retailers, and 6 of the top-10 quick serve restaurants.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;img alt="Customers with non-prime credit" data-entity-type="file" data-entity-uuid="baf56119-1379-4e17-92dd-bc8bd2115e5e" src="https://www.fico.com/sites/default/files/inline-images/Screen%20Shot%202019-08-05%20at%202.10.16%20PM.png" /&gt;&lt;br /&gt;&lt;br /&gt;
+To learn more, order the full survey report at: &lt;strong&gt;&lt;a href="http://nafassociation.com/" target="_blank"&gt;nafassociation.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+
+    &lt;div class="blog-post__author" style="display: flex; align-items: center;"&gt;
+        &lt;a href="https://www.fico.com/en/blogs/author/mica-dubois" class="blog-post__author__image"&gt;
+            &lt;img src="https://www.fico.com/sites/default/files/pictures/2019-08/Mica%20DuBois.jpg" alt="Mica DuBois" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;" /&gt;&lt;/a&gt;
+        &lt;span class="blog-post__author__name"&gt;
+            by &lt;a href="https://www.fico.com/en/blogs/author/mica-dubois"&gt;Mica DuBois&lt;/a&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Wed, 07 Aug 2019 15:30:00 +0000</pubDate>
+    <dc:creator>Mica DuBois</dc:creator>
+    <guid isPermaLink="false">9763 at https://www.fico.com</guid>
+    <category domain="https://www.fico.com/en/blogs?category=1240">customer-development</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1240">Customer Development</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/848">auto finance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/849">Auto lending</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/851">Automotive</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1153">research</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1097">non-prime</category>
+    </item>
+<item>
+    <title>Using Machine Learning to Improve Telecom Business Assurance</title>
+    <link>https://www.fico.com/en/blogs/using-machine-learning-improve-telecom-business-assurance</link>
+    <description>&lt;div class="blog-post blog-post--rss-item"&gt;
+    &lt;a href="https://www.fico.com/en/blogs/using-machine-learning-improve-telecom-business-assurance"&gt;
+        &lt;img src="https://www.fico.com/sites/default/files/default_files/AdobeStock_228579431%402x.jpeg" alt="Using Machine Learning to Improve Telecom Business Assurance" width="1880" height="1030" style="width: 100%;" /&gt;&lt;/a&gt;
+
+        
+            &lt;div&gt;&lt;p&gt;How can machine learning and advanced analytics improve business assurance in telecommunications?&lt;/p&gt;
+
+&lt;p&gt;That was part of the challenge we sought to solve in our first Catalyst project with &lt;a href="https://www.tmforum.org/"&gt;TM Forum&lt;/a&gt;, which was showcased at Digital Transformation World Nice. Catalysts are proof-of-concept projects developed collaboratively by TM Forum members. These projects bring together companies large and small to create innovative solutions to common challenges, demonstrating how this can be achieved leveraging key TM Forum best practices and standards.&lt;/p&gt;
+
+&lt;p&gt;Working with Orange, Deutsche Telekom, British Telecom and Croatia Telekom, plus Amdocs, IBM and Bulb Technologies, we embarked on an adventure to address a common challenge within telecom &lt;a href="https://www.tmforum.org/business-assurance/"&gt;business assurance&lt;/a&gt;. According to industry reports, revenue loss due to leakage, churn and fraud accounts for around 4% of total DSP (Digital Service Providers) revenue despite existing business assurance systems already in place.&lt;/p&gt;
+
+&lt;h2&gt;Fighting Fraud and Controlling Risk in New Service Requests&lt;/h2&gt;
+
+&lt;p&gt;At the point where a new customer orders new devices and / or voice, data, OTT services, DSPs need to make a risk assessment for credit, bad debt and fraud in order to understand the risk to the balance and balance against profitability. The telecom business assurance community needs to adopt AI, machine learning and open APIs in order to support DSPs in terms of revenue and customer experience.&lt;/p&gt;
+
+&lt;p&gt;The solution developed by our Catalyst team enhanced traditional credit and fraud assessments through the introduction of machine learning technologies in order to provide a more accurate and personalised risk assessment. This included:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Providing &lt;a href="https://www.fico.com/en/latest-thinking/best-next-action-technology-for-telecommunication"&gt;alternative and credit appropriate offers&lt;/a&gt; to those customers that were unable to meet the required threshold in order to retain customers.&lt;/li&gt;
+	&lt;li&gt;Network &lt;a href="https://www.fico.com/en/products/fico-identity-resolution-engine"&gt;link analysis&lt;/a&gt; in order to proactively identify suspect fraud.&lt;/li&gt;
+	&lt;li&gt;Creating an open API-driven business assurance marketplace to help service providers pick the right partners and adopt new technologies without the need to upgrade all of their legacy solutions.&lt;/li&gt;
+	&lt;li&gt;Contributing new APIs to TM Forum and new uses cases to revenue assurance and fraud management.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The project team demonstrated that if the APIs developed are applied in a real-world scenario, they could contribute to at least 1% improvement in the overall bottom line revenue for CSPs. This is a significant impact in an industry that is constantly fighting hard to control cost whilst investing in the latest technology. We even won an award for &lt;a href="https://www.tmforum.org/open-ai-business-assurance-market-place/"&gt;Outstanding Business Impact Catalyst&lt;/a&gt; — congratulations and thank you to all our partners on the project!&lt;/p&gt;
+&lt;/div&gt;
+      
+
+    &lt;div class="blog-post__author" style="display: flex; align-items: center;"&gt;
+        &lt;a href="https://www.fico.com/en/blogs/author/mel-prescott" class="blog-post__author__image"&gt;
+            &lt;img src="https://www.fico.com/sites/default/files/pictures/2019-08/Mel%20Prescott%204.jpg" alt="Mel Prescott" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;" /&gt;&lt;/a&gt;
+        &lt;span class="blog-post__author__name"&gt;
+            by &lt;a href="https://www.fico.com/en/blogs/author/mel-prescott"&gt;Mel Prescott&lt;/a&gt;
+        &lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Wed, 07 Aug 2019 12:46:13 +0000</pubDate>
+    <dc:creator>Mel Prescott</dc:creator>
+    <guid isPermaLink="false">9771 at https://www.fico.com</guid>
+    <category domain="https://www.fico.com/en/blogs?category=1241">fraud-protection-and-compliance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1241">Fraud Protection &amp; Compliance</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1207">Telecommunications</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1026">Fraud</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1027">fraud management</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/875">Business Process Management</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1157">Risk Management</category>
+    <category domain="https://www.fico.com/en/taxonomy/term/1115">Origination</category>
+    </item>
+
+  </channel>
+</rss>
